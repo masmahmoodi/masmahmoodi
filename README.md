@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I'm Masoud Mahmoodi, an experienced backend and software developer with a passion for coding. My expertise lies in Java, Python (including Django and Flask), JavaScript, CSS, HTML, Bootstrap, and database management (MySQL and MongoDB). As a dedicated Pythonista and problem solver, I strive to create robust and scalable applications. I enjoy crafting dynamic web solutions using JavaScript.<br><br>Let's collaborate on exciting projects and explore the endless possibilities of software development together! Connect with me and let's make a positive impact through innovative code. 🚀<br><br>
+# 💫 👋 Hi there, I'm Masoud Mahmoodi:
+.<br><br>Let's collaborate on exciting projects and explore the endless possibilities of software development together! Connect with me and let's make a positive impact through innovative code. 🚀<br><br>
 
 
 ## 🌐 Socials:
