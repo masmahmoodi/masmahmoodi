@@ -1,6 +1,4 @@
-# 💫 👋 Hi there, I'm Masoud Mahmoodi:
-.<br><br>Let's collaborate on exciting projects and explore the endless possibilities of software development together! Connect with me and let's make a positive impact through innovative code. 🚀<br><br>
-
+# 💫  I'm Masoud Mahmoodi:
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_masoudmahmoodi) 
