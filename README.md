@@ -1,16 +1,61 @@
-# 💫  I'm a Software Engineer :
+<h1 align="center">Hi 👋, I'm Masoud Mahmoodi</h1>
+<h3 align="center">Backend Developer | Django & DRF | Python Engineer</h3>
 
-## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_masoudmahmoodi) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=masmahmoodi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=masmahmoodi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=masmahmoodi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/masmahmoodi">
+    <img src="https://komarev.com/ghpvc/?username=masmahmoodi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=masmahmoodi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+- 💻 Backend-focused Software Engineer  
+- 🐍 Strong in **Python, Django, DRF**
+- 🛠 Building production-ready REST APIs
+- 🗄 Experienced with PostgreSQL & database design
+- 🚀 Passionate about scalable backend architecture
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,mysql,sqlite,git,github,docker,linux" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masmahmoodi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masmahmoodi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏗 Featured Projects
+
+- 🔐 **Authentication System (Django + JWT)**
+- 🛒 **E-commerce Backend (Django + PostgreSQL)**
+- 📦 **RESTful API Service with DRF**
+- 🧾 **Role-based Permission System**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/masoud-rahman-mahmoodi-573078284/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐️ From [masmahmoodi](https://github.com/masmahmoodi)
