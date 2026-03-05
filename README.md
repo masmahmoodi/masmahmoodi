@@ -39,12 +39,7 @@
 
 ---
 
-## 🏗 Featured Projects
 
-- 🔐 **Authentication System (Django + JWT)**
-- 🛒 **E-commerce Backend (Django + PostgreSQL)**
-- 📦 **RESTful API Service with DRF**
-- 🧾 **Role-based Permission System**
 
 ---
 
